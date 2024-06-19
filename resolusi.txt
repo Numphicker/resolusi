@@ -1,6 +1,7 @@
 Resolusi
 -ngoding 
--ngoding
+-ngod
 -ngoding
 -ngoding 2
 -ngoding 3
+-ngoding 4
