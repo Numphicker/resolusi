@@ -5,5 +5,6 @@ Resolusi
 -ngoding 2
   ES 6
   ES 17
+  ngoding 5
 -ngoding 3
 -ngoding 4
