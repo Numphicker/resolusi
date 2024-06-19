@@ -2,3 +2,5 @@ Resolusi
 -ngoding 
 -ngoding
 -ngoding
+-ngoding 2
+-ngoding 2
